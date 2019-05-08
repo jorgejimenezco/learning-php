@@ -7,6 +7,8 @@ $characters = [
     'Ford Prefect'];
 rsort($characters);
 ?>
+//reverse sort Characters
+1234567
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,5 +25,6 @@ rsort($characters);
     }
     ?>
 </ul>
+this is a test commit.
 </body>
 </html>

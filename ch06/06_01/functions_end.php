@@ -9,3 +9,5 @@ $name = 'DAVID';
 $name = ucfirst(strtolower($name));
 
 echo $name
+
+This is a test.
