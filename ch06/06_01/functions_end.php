@@ -8,4 +8,4 @@ $name = 'DAVID';
 
 $name = ucfirst(strtolower($name));
 
-echo $name;
+echo $name
