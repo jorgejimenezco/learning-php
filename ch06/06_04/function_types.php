@@ -1,8 +1,13 @@
 <?php
 $number = 2;
 
-function doubleIt($number) {
+/*function doubleIt($number) {
   return $number *= 2;
+}*/
+// pass by DOMEntityReference
+
+function doubleIt(&$num) {
+  $num *= 2;
 }
 $doubled = doubleIt($number);
 
